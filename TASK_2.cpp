@@ -1,3 +1,13 @@
+/*
+Design an abstract class Employee with a pure virtual function calculateSalary(). Derive two
+classes: FullTimeEmployee and PartTimeEmployee, from Employee.
+Requirements:
+• FullTimeEmployee should have a fixed salary, while PartTimeEmployee should be paid
+based on hours worked and an hourly rate.
+• Implement the calculateSalary() method in both classes.
+• Write a main function that creates one full-time and one part-time employee, sets their details,
+and prints their salaries.
+*/
 #include <iostream>
 using namespace std;
 
