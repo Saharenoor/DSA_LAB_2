@@ -1,3 +1,12 @@
+/*
+Create an abstract class Shape with a pure virtual function area(). Derive two classes, Circle and
+Rectangle, from Shape. Implement the area() function for both derived classes.
+Requirements:
+• The Circle class should have a private attribute radius and a constructor to initialize it.
+• The Rectangle class should have private attributes: length and width. The class
+should have a constructor to initialize the attributes.
+• Write a main function to create objects of both classes and display their areas.
+*/
 #include <iostream>
 using namespace std;
 
